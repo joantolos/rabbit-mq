@@ -20,7 +20,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 	${RABBITMQ_HOME}/sbin/rabbitmq-server
 
-    Rabbit MQ is now running on: (localhost:5672)
+    Rabbit MQ is now running on: [localhost:5672](localhost:5672)
 
 3. Creating the user and giving permissions:
 
