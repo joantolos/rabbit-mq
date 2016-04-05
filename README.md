@@ -20,7 +20,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 	${RABBITMQ_HOME}/sbin/rabbitmq-server
 
-    Rabbit MQ is now running on: [localhost:5672](localhost:5672)
+    Rabbit MQ is now running on: [localhost:5672](http://localhost:5672)
 
 3. Creating the user and giving permissions:
 
@@ -33,7 +33,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 	rabbitmq-plugins enable rabbitmq_management
 
-	[http://localhost:15672/](http://localhost:15672/)
+	[localhost:15672/](http://localhost:15672/)
 	
 	Now you can enter the tool and take a look to the Queues using the credentials created on the step before.
 	
