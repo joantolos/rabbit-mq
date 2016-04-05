@@ -1,6 +1,6 @@
 # Rabbit MQ POC
 
-Simple POC using Rabbit MQ with Java
+Simple POC using Rabbit MQ with Java. This code implements all the [tutorials on the Rabbit MQ website](https://www.rabbitmq.com/getstarted.html)
 
 ## About Rabbit MQ
 
