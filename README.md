@@ -18,7 +18,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 2. Start Rabbit MQ on localhost
 
-	${RABBITMQ_HOME}/sbin/rabbitmq-server
+	    ${RABBITMQ_HOME}/sbin/rabbitmq-server
 
     Rabbit MQ is now running on: [localhost:5672](http://localhost:5672/)
 
@@ -31,7 +31,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 4. Install the management tool:
 [Rabbit MQ Management Web Tool](https://www.rabbitmq.com/management.html)
 
-	rabbitmq-plugins enable rabbitmq_management
+	    rabbitmq-plugins enable rabbitmq_management
 
 	[localhost:15672/](http://localhost:15672/)
 	
