@@ -15,7 +15,13 @@
     <name>--- Rabbit MQ POC -> Producer Module</name>
 
     <dependencies>
-        
+
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>${rabbit.mq.version}</version>
+        </dependency>
+
     </dependencies>
     
 </project>
