@@ -24,9 +24,9 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 3. Creating the user and giving permissions:
 
-	rabbitmqctl add_user user password
-	rabbitmqctl set_user_tags user administrator
-	rabbitmqctl set_permissions -p / user ".*" ".*" ".*"
+	    rabbitmqctl add_user user password
+	    rabbitmqctl set_user_tags user administrator
+	    rabbitmqctl set_permissions -p / user ".*" ".*" ".*"
 	
 4. Install the management tool:
 [Rabbit MQ Management Web Tool](https://www.rabbitmq.com/management.html)
