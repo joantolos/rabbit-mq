@@ -33,7 +33,7 @@ See [Rabbit MQ website](https://www.rabbitmq.com/)
 
 	rabbitmq-plugins enable rabbitmq_management
 
-	http://localhost:15672/
+	[http://localhost:15672/](http://localhost:15672/)
 	
 	Now you can enter the tool and take a look to the Queues using the credentials created on the step before.
 	
