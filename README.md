@@ -43,6 +43,8 @@ Execute the main method on the class **com.joantolos.rabbit.mq.producer.Producer
 
 ![my_messages queue](my_messages.png "my_messages queue")
 
+Then you execute the main method on the class **com.joantolos.rabbit.mq.consumer.Receiver**. It will consume the message on the queue *my_messages* and print it on the console. Then you can execute several times the Producer again and see how the consumer is listening to the queue.
+
 ## Work Queues
 
 ## Publish / Subscribe
